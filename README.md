@@ -1,7 +1,7 @@
 - 👋 olá, Meu nome é Anderson
 - 👀 Futuro programador
 - 🌱 Cursando Sistemas de informação-UFPB
-- 💞️ Amante de cubo mágico
+- 👀 SpeederCuber e redstoner misturando com Ciencias da computação
 - 📫 Instagram @_UnderSun.7...
 
 <!---
