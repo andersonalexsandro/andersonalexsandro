@@ -1,8 +1,7 @@
-- 👋 olá, Meu nome é Anderson
-- 👀 Futuro programador
-- 🌱 Cursando Sistemas de informação-UFPB
-- 👀 SpeederCuber e redstoner misturando com Ciencias da computação
-- 📫 Instagram @_UnderSun.7...
+-👀  In development software Developer 🍵 Focus on Java!
+-📫 Majoring in information systems 
+-🧑‍🎓  University - UFPB
+-💞️ Algorithm reasoning
 
 <!---
 UnderSun7336/UnderSun7336 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
