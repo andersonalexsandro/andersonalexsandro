@@ -1,10 +1,4 @@
 -👀  In development software Developer 🍵 Focus on Java!
-##
--📫 Majoring in information systems 
-##
--🧑‍🎓  University - UFPB
-##
--💞️ Algorithm reasoning
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=120&section=header"/>
 
@@ -12,7 +6,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&color=007BFF&background=64FF4700&center=true&vCenter=true&width=1000&lines=Welcome!+I'm+Anderson.+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+studying+Information+Systems+at+Federal+University+of+Paraiba;A+beginner+system+developer+working+on+Back-end)](https://git.io/typing-svg)
 
 
-- [Information Systems](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=1626837&lc=pt_BR) Student at [**Federal University of Paraíba**](https://www.ufpb.br/)                                                                                                                                                                                       
+- [Information Systems](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=1626837&lc=pt_BR) Student at [**Federal University of Paraíba**](https://www.ufpb.br/)
+
+- In development software Developer 
+                                                                                                                  
+- In date with Algorithm reasoning
 
 - 19 years old
 
@@ -20,8 +18,8 @@
 <br/>
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonalexsandro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonalexsandro&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonalexsandro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonalexsandro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
   ![Snake animation](https://github.com/ryanjorgeac/ryanjorgeac/blob/output/github-contribution-grid-snake.svg?)
