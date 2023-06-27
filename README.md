@@ -22,6 +22,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonalexsandro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+![snake gif](https://github.com/andersonalexsandro/andersonalexsandro/blob/output/github-contribution-grid-snake.svg)
+
   
   ### Main skills:
 ![Java](https://img.shields.io/badge/Java-2C2255?style=for-the-badge&logo=java&labelColor=e30b0b&logoColor=fff)&nbsp;
