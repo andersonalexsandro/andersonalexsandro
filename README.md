@@ -22,8 +22,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonalexsandro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-![snake gif](https://github.com/andersonalexsandro/andersonalexsandro/blob/output/github-contribution-grid-snake.svg)
-
   
   ### Main skills:
 ![Java](https://img.shields.io/badge/Java-2C2255?style=for-the-badge&logo=java&labelColor=e30b0b&logoColor=fff)&nbsp;
@@ -37,7 +35,8 @@
 ### Studying in this moment:
 ![Clean Code Book](https://img.shields.io/badge/Book-Clean_Code-007BFF?style=for-the-badge&logo=bookstack&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-2C2255?style=for-the-badge&logo=java&labelColor=e30b0b&logoColor=fff)&nbsp;
-
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=2b2b2b" alt="Spring Codeclean">
 
 ### Where you can find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-soares-4b300027a/) 
