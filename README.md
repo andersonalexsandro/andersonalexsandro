@@ -25,6 +25,8 @@
   
   ### Main skills:
 ![Java](https://img.shields.io/badge/Java-2C2255?style=for-the-badge&logo=java&labelColor=e30b0b&logoColor=fff)&nbsp;
+![Clean Code](https://img.shields.io/badge/Clean_Code-008080?style=for-the-badge&labelColor=white)
+
 
 ### Tools:
 ![Git](https://img.shields.io/badge/-Git-2C2255?style=for-the-badge&logo=git&labelColor=fff)&nbsp;
