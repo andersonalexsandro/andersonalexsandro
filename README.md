@@ -23,8 +23,8 @@
 </div>
 
   
-  ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=java,spring&theme=light)](https://skillicons.dev)
+### Main skills:
+[![My Skills](https://skillicons.dev/icons?i=java,spring&theme=light)](https://skillicons.dev) 
 
 
 ### Tools:
@@ -37,6 +37,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-soares-4b300027a/) 
 [![Instagram](https://img.shields.io/badge/Instagram-d9137e?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_andsun.7/)
 
+### Books:
+![Clean Code](https://img.shields.io/badge/Clean_Code-008080?style=for-the-badge&labelColor=white)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
 
