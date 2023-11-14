@@ -14,7 +14,7 @@
 
 - 19 years old
 
-- From Brazil
+- From Brazil-Paraíba/Pernambuco
 <br/>
 <div align="center">
   <a href="https://github.com/andersonalexsandro">
@@ -24,21 +24,14 @@
 
   
   ### Main skills:
-![Java](https://img.shields.io/badge/Java-2C2255?style=for-the-badge&logo=java&labelColor=e30b0b&logoColor=fff)&nbsp;
-![Clean Code](https://img.shields.io/badge/Clean_Code-008080?style=for-the-badge&labelColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,spring&theme=light)](https://skillicons.dev)
 
 
 ### Tools:
-![Git](https://img.shields.io/badge/-Git-2C2255?style=for-the-badge&logo=git&labelColor=fff)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-2C2255?style=for-the-badge&logo=github&labelColor=161b22)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-2C2255?style=for-the-badge&logo=windows&labelColor=4eb6ff)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=github,git,idea,mysql,postman,vscode)](https://skillicons.dev)
  
 ### Studying in this moment:
-![Clean Code Book](https://img.shields.io/badge/Book-Clean_Code-007BFF?style=for-the-badge&logo=bookstack&logoColor=white)
-![Java](https://img.shields.io/badge/Java-2C2255?style=for-the-badge&logo=java&labelColor=e30b0b&logoColor=fff)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=2b2b2b" alt="Spring Codeclean">
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ### Where you can find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-soares-4b300027a/) 
