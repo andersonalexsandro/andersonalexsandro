@@ -40,6 +40,10 @@
 ### Books:
 ![Clean Code](https://img.shields.io/badge/Clean_Code-008080?style=for-the-badge&labelColor=white)
 
+### More about me:
+
+<a href="https://andersonalexsandro.github.io/andersonalexsandro-portifolio.github.io/">Portfolio</a>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
 
 
