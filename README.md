@@ -24,7 +24,7 @@
 
   
 ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=java,spring&theme=light)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,py,spring&theme=light)](https://skillicons.dev) 
 
 
 ### Tools:
