@@ -31,7 +31,9 @@
 [![My Skills](https://skillicons.dev/icons?i=github,git,idea,mysql,postman,vscode)](https://skillicons.dev)
  
 ### Studying in this moment:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask, js,html,css," />
+</a>
 
 ### Where you can find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-soares-4b300027a/) 
