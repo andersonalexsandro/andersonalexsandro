@@ -12,14 +12,14 @@
                                                                                                                   
 - In date with Algorithm reasoning
 
-- 19 years old
+- 20 years old
 
 - From Brazil-Paraíba/Pernambuco
 <br/>
 <div align="center">
   <a href="https://github.com/andersonalexsandro">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andersonalexsandro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonalexsandro&layout=compact&langs_count=7&theme=tokyonight"/>
+<!--   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andersonalexsandro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonalexsandro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
   
@@ -28,7 +28,7 @@
 
 
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=github,git,idea,mysql,postman,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,idea,pycharm,mysql,postgres,postman,vscode,linux)](https://skillicons.dev)
  
 ### Studying in this moment:
 <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,html,css"/> </a>
