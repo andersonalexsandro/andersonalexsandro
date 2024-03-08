@@ -24,15 +24,15 @@
 
   
 ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=java,py,spring&theme=light)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,py,spring,flask&theme=light)](https://skillicons.dev) 
 
 
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=git,idea,pycharm,mysql,postgres,postman,vscode,linux)](https://skillicons.dev)
  
 ### Studying in this moment:
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,html,css"/> </a>
-[![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,html,css,flask"/> </a>
+
 
 ### Where you can find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-soares-4b300027a/) 
