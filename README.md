@@ -31,7 +31,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git,idea,pycharm,mysql,postgres,postman,vscode,linux)](https://skillicons.dev)
  
 ### Studying in this moment:
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,html,css,flask"/> </a>
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,html,css,react"/> </a>
 
 
 ### Where you can find me:
